@@ -5,9 +5,9 @@ you want to see.
 
 ## Libraries and API's which was used
 
-GUI: FLTK[^1]
-JSON Parser: cJSON[^2]
-WeatherAPI: OpenWeatherApp API[^3]
+- GUI: FLTK[^1]
+- JSON Parser: cJSON[^2]
+- WeatherAPI: OpenWeatherApp API[^3]
 
 ## How to build
 
